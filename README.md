@@ -1,65 +1,90 @@
-Skin Kagura (Gintama) para Delta Emulator (DS)
-Uma skin customizada para o emulador Delta no iOS, trazendo a Kagura do anime/mangá Gintama para a sua jogatina de Nintendo DS.
+# Kagura DS Skin (Gintama) — Delta Emulator (Nintendo DS)
 
-O design foi pensado para ser limpo e funcional, com uma temática escura e texturizada que destaca a arte da personagem, mantendo todos os botões essenciais acessíveis para a jogabilidade.
+![Release](https://img.shields.io/github/v/release/andrido/kagura-ds-skin-deltaEmulator) ![Last commit](https://img.shields.io/github/last-commit/andrido/kagura-ds-skin-deltaEmulator)
 
-Preview
-<p align="center">
-<strong>Skin em Uso</strong>
+A custom controller skin for the **Delta** emulator on iOS, featuring **Kagura** from the anime/manga *Gintama*.  
+Designed for portrait play on iPhone with an accessibility-focused layout that groups action and directional controls on the right side for comfortable one-handed play (right hand).
 
+> **Co-developed by:** andrido & **gaibufr (Chase)**
 
+---
 
-<em>(Skin in Action)</em>
+## Preview
 
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <strong>Skin in Action</strong><br/>
+      <em>(Preview)</em><br/>
+      <img src="https://i.imgur.com/d1GwzZS.jpeg" alt="Skin in action" width="300"/>
+    </td>
+    <td align="center">
+      <strong>Clean Layout</strong><br/>
+      <em>(Layout)</em><br/>
+      <img src="https://i.imgur.com/CyXOdRr.png" alt="Clean layout" width="300"/>
+    </td>
+  </tr>
+</table>
 
+---
 
-<img src="https://imgur.com/a/q15Tjms" alt="Skin da Kagura em uso com um jogo de DS" width="300"/>
-</p>
+## ✨ Features
 
-<p align="center">
-<strong>Layout Limpo</strong>
+- **Accessibility-focused:** All action and directional controls grouped on the right side for comfortable one-handed use (right hand).  
+- **Character artwork:** Illustration of Kagura by [moshimoshibe](https://www.instagram.com/moshimoshibe/).  
+- **Portrait layout:** Optimized for vertical (portrait) orientation on iPhone.  
+- **Dark theme:** Subtle dark textured background that reduces eye fatigue and highlights the game view.  
+- **PlayStation-style buttons:** X, Circle, Square and Triangle style visuals for a familiar feel.  
+- **Full controls:** Includes standard Nintendo DS buttons (including L & R) plus shortcuts for Menu and Fast Forward.
 
+---
 
+## ⚠️ Compatibility
 
-<em>(Clean Layout)</em>
+- **Supported:** iPhone only (portrait mode).  
+- **Not supported:** iPad — this skin was designed specifically for iPhone layouts and may not display or map correctly on iPad.
 
+---
 
+## 🔧 Work in Progress
 
-<img src="https://imgur.com/a/eKmUoZl" alt="Layout limpo da skin da Kagura" width="300"/>
-</p>
+This project is still being actively improved. Known issues and ongoing work:
 
-``
+- **Analog/thumbstick grip:** The thumbstick grip may not display or slide correctly on some Delta builds — currently being fixed.  
+- Other minor layout/touch-mapping tweaks are in progress to improve reliability across iOS versions.
 
-✨ Features
-Arte da Personagem: Ilustração da Kagura por moshimoshibe.
+If you find issues, please open an issue in the repository with a short description and screenshots.
 
-Layout Vertical: Otimizado para jogar no modo retrato (em pé).
+---
 
-Tema Escuro: Fundo cinza escuro texturizado para não cansar a vista.
+## ⚙️ Installation
 
-Botões Estilo PlayStation: Usa os botões X, Círculo, Quadrado e Triângulo para uma estética familiar.
+1. Go to the **Releases** section of this repository.  
+2. Download the latest `.deltaskin` file (e.g., `KaguraDS[v1.0].deltaskin`).  
+3. Transfer the file to your iPhone (AirDrop, Files app, iCloud Drive, etc.).  
+4. On the iPhone, open the `.deltaskin` file and choose **"Copy to Delta"** or **"Open with Delta"**.  
+5. Delta will import the skin and confirm.  
+6. Activate it in Delta: **Settings → Controller Skins → Nintendo DS** → select **Kagura DS Skin** (Portrait).
 
-Funcionalidades Completas: Inclui todos os botões padrão do Nintendo DS, além de atalhos para Menu e Fast Forward.
+---
 
-⚙️ Instalação
-Para instalar a skin no seu Delta, siga os passos abaixo:
+## 📦 Download
 
-Vá até a seção Releases deste repositório.
+Download the latest release from the repository Releases page:  
+`https://github.com/andrido/kagura-ds-skin-deltaEmulator/releases`
 
-Baixe o arquivo .deltaskin mais recente (ex: KaguraDS[v1.0].deltaskin).
+---
 
-Envie o arquivo para o seu iPhone (você pode usar AirDrop, salvar no app Arquivos, etc.).
+## 📝 Credits & Team
 
-No seu iPhone, abra o arquivo e escolha a opção "Copiar para o Delta" ou "Abrir com o Delta".
+- **Developed by:** andrido & **gaibufr (Chase)**  
+- **Skin design & accessibility layout:** andrido  
+- **QA & usability testing:** gaibufr (Chase)  
+- **Kagura illustration:** [moshimoshibe](https://www.instagram.com/moshimoshibe/)  
+- **Original character:** *Gintama* by Hideaki Sorachi
 
-O Delta irá abrir e confirmar a importação da skin.
+---
 
-Para ativá-la, vá em Configurações do Delta > Controller Skins > Nintendo DS e selecione a "Kagura DS Skin" na lista do modo Retrato.
+## 🤝 Contributing
 
-📝 Créditos
-Design da Skin: andrido
-
-Ilustração da Kagura: moshimoshibe ``
-
-Personagem Original: Gintama, por Hideaki Sorachi.
-
+Contributions, bug reports and pull requests are welcome. Please open an issue with details or submit a PR with improvements.
