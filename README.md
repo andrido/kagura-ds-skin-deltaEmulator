@@ -13,7 +13,7 @@ Preview
 
 
 
-<img src="./preview/in_game_preview.jpg" alt="Skin da Kagura em uso com um jogo de DS" width="300"/>
+<img src="https://imgur.com/a/q15Tjms" alt="Skin da Kagura em uso com um jogo de DS" width="300"/>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ Preview
 
 
 
-<img src="./preview/layout_preview.jpg" alt="Layout limpo da skin da Kagura" width="300"/>
+<img src="https://imgur.com/a/eKmUoZl" alt="Layout limpo da skin da Kagura" width="300"/>
 </p>
 
 ``
