@@ -10,21 +10,24 @@ Designed for portrait play on iPhone with an accessibility-focused layout that g
 ---
 
 ## Preview
-
 <table align="center" width="100%">
   <tr>
-    <td align="center">
+    <td colspan="2" align="center">
       <strong>Skin in Action</strong><br/>
-      <em>(Preview)</em><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <em></em><br/>
       <img src="https://i.imgur.com/d1GwzZS.jpeg" alt="Skin in action" width="300"/>
     </td>
     <td align="center">
-      <strong>Clean Layout</strong><br/>
-      <em>(Layout)</em><br/>
-      <img src="https://i.imgur.com/CyXOdRr.png" alt="Clean layout" width="300"/>
+      <em></em><br/>
+      <img src="https://i.imgur.com/wIL174D.jpeg" alt="Clean layout" width="300"/>
     </td>
   </tr>
 </table>
+
 
 ---
 
