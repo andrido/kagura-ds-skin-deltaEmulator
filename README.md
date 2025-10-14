@@ -71,7 +71,7 @@ If you find issues, please open an issue in the repository with a short descript
 ## 📦 Download
 
 Download the latest release from the repository Releases page:  
-`https://github.com/andrido/kagura-ds-skin-deltaEmulator/releases`
+[https://github.com/andrido/kagura-ds-skin-deltaEmulator/releases](https://github.com/andrido/kagura-ds-skin-deltaEmulator/releases)
 
 ---
 
