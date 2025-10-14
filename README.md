@@ -31,7 +31,7 @@ Preview
 ``
 
 ✨ Features
-Arte da Personagem: Ilustração da Kagura de Gintama.
+Arte da Personagem: Ilustração da Kagura por moshimoshibe.
 
 Layout Vertical: Otimizado para jogar no modo retrato (em pé).
 
@@ -57,7 +57,9 @@ O Delta irá abrir e confirmar a importação da skin.
 Para ativá-la, vá em Configurações do Delta > Controller Skins > Nintendo DS e selecione a "Kagura DS Skin" na lista do modo Retrato.
 
 📝 Créditos
-Design e Desenvolvimento: andrido
+Design da Skin: andrido
 
-Personagem: Kagura, do anime/mangá Gintama.
+Ilustração da Kagura: moshimoshibe ``
+
+Personagem Original: Gintama, por Hideaki Sorachi.
 
