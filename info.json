@@ -1,6 +1,6 @@
 {
-    "name": "Kagura DS Skin [v1.0]",
-    "identifier": "com.andrido.ds.kagura-v1.0",
+    "name": "Kagura DS Skin [v1.2]",
+    "identifier": "com.andrido.ds.kagura-v1.2",
     "gameTypeIdentifier": "com.rileytestut.delta.game.ds",
     "debug": false,
     "representations": {
@@ -15,22 +15,39 @@
                     "items": [
                         {
                             "frame": {
-                                "x": 888,
-                                "y": 2387,
-                                "width": 240,
-                                "height": 240
+                                "x": 907,
+                                "y": 2352,
+                                "width": 260,
+                                "height": 260
                             },
                             "thumbstick": {
-                                "type": "relative",
-                                "assets": {
-                                    "grip": "thumbstick-grip.png"
-                                }
+                                "name": "thumbstick-grip.png",
+                                "width": 260,
+                                "height": 260,
+                                "centered": true
                             },
                             "inputs": {
                                 "up": "up",
                                 "down": "down",
                                 "left": "left",
                                 "right": "right"
+                            },
+                            "extendedEdges": {
+                                "top": 0,
+                                "bottom": 0,
+                                "left": 0,
+                                "right": 0
+                            }
+                        },
+                        {
+                            "inputs": [
+                                "a"
+                            ],
+                            "frame": {
+                                "x": 759,
+                                "y": 2162,
+                                "width": 118,
+                                "height": 118
                             }
                         },
                         {
@@ -38,8 +55,8 @@
                                 "b"
                             ],
                             "frame": {
-                                "x": 759,
-                                "y": 2162,
+                                "x": 628,
+                                "y": 2296,
                                 "width": 118,
                                 "height": 118
                             }
@@ -93,10 +110,10 @@
                                 "select"
                             ],
                             "frame": {
-                                "x": 1054,
-                                "y": 2708,
-                                "width": 50,
-                                "height": 50
+                                "x": 964,
+                                "y": 2674,
+                                "width": 52,
+                                "height": 52
                             }
                         },
                         {
@@ -104,9 +121,9 @@
                                 "start"
                             ],
                             "frame": {
-                                "x": 1181,
-                                "y": 2708,
-                                "width": 70,
+                                "x": 1067,
+                                "y": 2674,
+                                "width": 69,
                                 "height": 50
                             }
                         },
@@ -130,6 +147,18 @@
                                 "y": 2070,
                                 "width": 87,
                                 "height": 45
+                            }
+                        },
+                        {
+                            "inputs": {
+                                "x": "touchScreenX",
+                                "y": "touchScreenY"
+                            },
+                            "frame": {
+                                "x": 1,
+                                "y": 1116,
+                                "width": 1285,
+                                "height": 950
                             }
                         }
                     ],
@@ -156,10 +185,10 @@
                                 "height": 192
                             },
                             "outputFrame": {
-                                "x": 4,
-                                "y": 1115,
-                                "width": 1280,
-                                "height": 955
+                                "x": 1,
+                                "y": 1116,
+                                "width": 1285,
+                                "height": 950
                             }
                         }
                     ],
