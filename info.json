@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
     "name": "Kagura DS Skin [v1.2]",
     "identifier": "com.andrido.ds.kagura-v1.2",
-=======
-    "name": "Kagura DS Skin [v1.0]",
-    "identifier": "com.andrido.ds.kagura-v1.0",
->>>>>>> 43497256003dc5ed97cddf0efd99fa66f28e82bf
     "gameTypeIdentifier": "com.rileytestut.delta.game.ds",
     "debug": false,
     "representations": {
@@ -20,46 +15,33 @@
                     "items": [
                         {
                             "frame": {
-<<<<<<< HEAD
                                 "x": 907,
                                 "y": 2352,
                                 "width": 260,
                                 "height": 260
                             },
                             "thumbstick": {
-                                "type": "absolute",
-                                "assets": {
-                                    "grip": "thumbstick-grip.png"
-                                },
+                                "name": "thumbstick-grip.png",
                                 "width": 260,
-                                "height": 260
-=======
-                                "x": 888,
-                                "y": 2387,
-                                "width": 240,
-                                "height": 240
-                            },
-                            "thumbstick": {
-                                "type": "relative",
-                                "assets": {
-                                    "grip": "thumbstick-grip.png"
-                                }
->>>>>>> 43497256003dc5ed97cddf0efd99fa66f28e82bf
+                                "height": 260,
+                                "centered": true
                             },
                             "inputs": {
                                 "up": "up",
                                 "down": "down",
                                 "left": "left",
                                 "right": "right"
+                            },
+                            "extendedEdges": {
+                                "top": 0,
+                                "bottom": 0,
+                                "left": 0,
+                                "right": 0
                             }
                         },
                         {
                             "inputs": [
-<<<<<<< HEAD
                                 "a"
-=======
-                                "b"
->>>>>>> 43497256003dc5ed97cddf0efd99fa66f28e82bf
                             ],
                             "frame": {
                                 "x": 759,
@@ -70,7 +52,6 @@
                         },
                         {
                             "inputs": [
-<<<<<<< HEAD
                                 "b"
                             ],
                             "frame": {
@@ -82,8 +63,6 @@
                         },
                         {
                             "inputs": [
-=======
->>>>>>> 43497256003dc5ed97cddf0efd99fa66f28e82bf
                                 "y"
                             ],
                             "frame": {
@@ -131,17 +110,10 @@
                                 "select"
                             ],
                             "frame": {
-<<<<<<< HEAD
                                 "x": 964,
                                 "y": 2674,
                                 "width": 52,
                                 "height": 52
-=======
-                                "x": 1054,
-                                "y": 2708,
-                                "width": 50,
-                                "height": 50
->>>>>>> 43497256003dc5ed97cddf0efd99fa66f28e82bf
                             }
                         },
                         {
@@ -149,15 +121,9 @@
                                 "start"
                             ],
                             "frame": {
-<<<<<<< HEAD
                                 "x": 1067,
                                 "y": 2674,
                                 "width": 69,
-=======
-                                "x": 1181,
-                                "y": 2708,
-                                "width": 70,
->>>>>>> 43497256003dc5ed97cddf0efd99fa66f28e82bf
                                 "height": 50
                             }
                         },
@@ -182,7 +148,6 @@
                                 "width": 87,
                                 "height": 45
                             }
-<<<<<<< HEAD
                         },
                         {
                             "inputs": {
@@ -195,8 +160,6 @@
                                 "width": 1285,
                                 "height": 950
                             }
-=======
->>>>>>> 43497256003dc5ed97cddf0efd99fa66f28e82bf
                         }
                     ],
                     "screens": [
@@ -222,17 +185,10 @@
                                 "height": 192
                             },
                             "outputFrame": {
-<<<<<<< HEAD
                                 "x": 1,
                                 "y": 1116,
                                 "width": 1285,
                                 "height": 950
-=======
-                                "x": 4,
-                                "y": 1115,
-                                "width": 1280,
-                                "height": 955
->>>>>>> 43497256003dc5ed97cddf0efd99fa66f28e82bf
                             }
                         }
                     ],
