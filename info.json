@@ -1,0 +1,199 @@
+{
+    "name": "Kagura DS Skin [v1.2]",
+    "identifier": "com.andrido.ds.kagura-v1.2",
+    "gameTypeIdentifier": "com.rileytestut.delta.game.ds",
+    "debug": false,
+    "representations": {
+        "iphone": {
+            "edgeToEdge": {
+                "portrait": {
+                    "assets": {
+                        "small": "controller.png",
+                        "medium": "controller.png",
+                        "large": "controller.png"
+                    },
+                    "items": [
+                        {
+                            "frame": {
+                                "x": 907,
+                                "y": 2352,
+                                "width": 260,
+                                "height": 260
+                            },
+                            "thumbstick": {
+                                "type": "absolute",
+                                "assets": {
+                                    "grip": "thumbstick-grip.png"
+                                },
+                                "width": 260,
+                                "height": 260
+                            },
+                            "inputs": {
+                                "up": "up",
+                                "down": "down",
+                                "left": "left",
+                                "right": "right"
+                            }
+                        },
+                        {
+                            "inputs": [
+                                "a"
+                            ],
+                            "frame": {
+                                "x": 759,
+                                "y": 2162,
+                                "width": 118,
+                                "height": 118
+                            }
+                        },
+                        {
+                            "inputs": [
+                                "b"
+                            ],
+                            "frame": {
+                                "x": 628,
+                                "y": 2296,
+                                "width": 118,
+                                "height": 118
+                            }
+                        },
+                        {
+                            "inputs": [
+                                "y"
+                            ],
+                            "frame": {
+                                "x": 596,
+                                "y": 2485,
+                                "width": 118,
+                                "height": 118
+                            }
+                        },
+                        {
+                            "inputs": [
+                                "x"
+                            ],
+                            "frame": {
+                                "x": 686,
+                                "y": 2647,
+                                "width": 118,
+                                "height": 118
+                            }
+                        },
+                        {
+                            "inputs": [
+                                "l"
+                            ],
+                            "frame": {
+                                "x": 958,
+                                "y": 2163,
+                                "width": 108,
+                                "height": 72
+                            }
+                        },
+                        {
+                            "inputs": [
+                                "r"
+                            ],
+                            "frame": {
+                                "x": 1153,
+                                "y": 2194,
+                                "width": 108,
+                                "height": 72
+                            }
+                        },
+                        {
+                            "inputs": [
+                                "select"
+                            ],
+                            "frame": {
+                                "x": 964,
+                                "y": 2674,
+                                "width": 52,
+                                "height": 52
+                            }
+                        },
+                        {
+                            "inputs": [
+                                "start"
+                            ],
+                            "frame": {
+                                "x": 1067,
+                                "y": 2674,
+                                "width": 69,
+                                "height": 50
+                            }
+                        },
+                        {
+                            "inputs": [
+                                "menu"
+                            ],
+                            "frame": {
+                                "x": 571,
+                                "y": 2069,
+                                "width": 87,
+                                "height": 45
+                            }
+                        },
+                        {
+                            "inputs": [
+                                "toggleFastForward"
+                            ],
+                            "frame": {
+                                "x": 665,
+                                "y": 2070,
+                                "width": 87,
+                                "height": 45
+                            }
+                        },
+                        {
+                            "inputs": {
+                                "x": "touchScreenX",
+                                "y": "touchScreenY"
+                            },
+                            "frame": {
+                                "x": 1,
+                                "y": 1116,
+                                "width": 1285,
+                                "height": 950
+                            }
+                        }
+                    ],
+                    "screens": [
+                        {
+                            "inputFrame": {
+                                "x": 0,
+                                "y": 0,
+                                "width": 256,
+                                "height": 192
+                            },
+                            "outputFrame": {
+                                "x": 1,
+                                "y": 150,
+                                "width": 1287,
+                                "height": 961
+                            }
+                        },
+                        {
+                            "inputFrame": {
+                                "x": 0,
+                                "y": 192,
+                                "width": 256,
+                                "height": 192
+                            },
+                            "outputFrame": {
+                                "x": 1,
+                                "y": 1116,
+                                "width": 1285,
+                                "height": 950
+                            }
+                        }
+                    ],
+                    "mappingSize": {
+                        "width": 1290,
+                        "height": 2797
+                    }
+                }
+            }
+        }
+    }
+}
